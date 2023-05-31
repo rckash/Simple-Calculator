@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidPracticeExercise2</string>
+    <string name="app_result">Result:</string>
+    <string name="app_result_formatted">Result: %s</string>
 </resources>
